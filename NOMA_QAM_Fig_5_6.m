@@ -167,7 +167,7 @@ modParams = [nSubcar,cpSize];
 
 frmLen = 100;   % number of birs per frame
 maxErrs = 1e3;  % target number of errors at each Es/No
-maxBits = 1e6;  % maximum number of Bits at each Es/No
+maxBits = 1e7;  % maximum number of Bits at each Es/No
 
 % QAM modulator and demodulator
 QAMMod1 = comm.RectangularQAMModulator(M1,'NormalizationMethod', ...
