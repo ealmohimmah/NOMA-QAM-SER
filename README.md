@@ -13,7 +13,7 @@ Nonorthogonal multiple access (NOMA) is a technique with high spectral efficienc
 
 ## Content of Code Package
 
-The article contains the figures of the article.
+The package contains the MATLAB files that reproduce the figures and results in the article.
 
 ## License and Referencing
 
