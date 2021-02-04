@@ -5,7 +5,7 @@ This is a code package related to the following scientific article:
 
 E. M. Almohimmah and M. T. Alresheedi, "Error Analysis of NOMA-Based VLC Systems With Higher Order Modulation Schemes," in IEEE Access, vol. 8, pp. 2792-2803, 2020, doi: 10.1109/ACCESS.2019.2962331.
 
-The package contains a simulation environment that reproduces the figures and results and figures in the article.
+The package contains the MATLAB files that reproduce the figures and results in the article.
 
 ## Abstract of Article
 
